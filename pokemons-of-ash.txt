@@ -4,6 +4,17 @@ Bulbasaur.
 Ivysaur.
 Venusaur.
 Charmander.
+
+
+Middle**
+Mew
+Chikorita
+Bayleef
+Meganium
+Water
+
+
+
 Charmeleon.
 Charizard.
 Squirtle.
