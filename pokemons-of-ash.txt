@@ -4,6 +4,16 @@ Bulbasaur.
 Ivysaur.
 Venusaur.
 Charmander.
+
+Middle**
+Bulbasaur
+Ivysaur
+Venusaur
+Charmander
+Charizard
+
+
+
 Charmeleon.
 Charizard.
 Squirtle.
